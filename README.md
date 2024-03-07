@@ -28,7 +28,7 @@ This portfolio website showcases the skills, projects, and profile of John Ander
 <img src="./public/img/freelancer.png" alt="" width="500" height="280">
 
 ## Live Demo 🌐
-Live Demo: [Freelancer WebSite Demo]()
+Live Demo: [Freelancer WebSite Demo](https://freelancer-website-zeta.vercel.app/)
 
 ## Installation
 Before running the project, you need to install the required Node.js modules. Open your terminal, navigate to the project directory, and run the following command:
